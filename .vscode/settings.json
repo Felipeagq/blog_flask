@@ -1,0 +1,10 @@
+{
+    "editor.minimap.enabled": false,
+    "python.analysis.useLibraryCodeForTypes": false,
+    "css.lint.vendorPrefix": "ignore",
+    "scss.lint.vendorPrefix": "ignore",
+    "less.lint.vendorPrefix": "ignore",
+    "python.linting.enabled": false,
+    "python.linting.pylintEnabled": false,
+    "python.linting.mypyEnabled": true
+}
